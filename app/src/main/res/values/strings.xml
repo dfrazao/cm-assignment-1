@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="group_12">Group 12</string>
+    <string name="app_icon">App Icon</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="diogo_frazao">Diogo Frazão</string>
+    <string name="filipe_bastias">Filipe Bastias</string>
+    <string name="radica_giva">Radica Giva</string>
+    <string name="mario_tavares">Mário Tavares</string>
+    <string name="diogo_frazao_avatar">Diogo Frazão\'s Avatar</string>
+    <string name="filipe_bastias_avatar">Filipe Bastias\' Avatar</string>
+    <string name="radica_giva_avatar">Radica Giva\'s Avatar</string>
+    <string name="mario_tavares_avatar">Mário Tavares\'s Avatar</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_red">Red</string>
+    <string name="color_green">Green</string>
+    <string name="color_yellow">Yellow</string>
+    <string name="color_cyan">Cyan</string>
+    <string name="color_white">White</string>
+    <string name="welcome">Welcome to Paint!</string>
+    <string name="backgroud_color">Backgroud Color</string>
+</resources>
